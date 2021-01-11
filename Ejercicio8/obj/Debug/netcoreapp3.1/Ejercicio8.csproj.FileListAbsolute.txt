@@ -1,0 +1,13 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.deps.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.runtimeconfig.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad11-Herencias-Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.genruntimeconfig.cache
